@@ -1,3 +1,5 @@
+// 2021 Anthony Chen
+
 class Rope {
   constructor(bodyA, pointB) {
     var options = {
